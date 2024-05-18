@@ -1,0 +1,14 @@
+﻿type,model,material,basePrice,manufacPrice
+Smartphone,Iphone 12,Nhom,60,200
+Smartphone,Iphone 13,Nhom,70,240
+Smartphone,Iphone 14,Nhom,100,300
+Smartphone,Iphone 15,Nhom,120,350
+Smartphone,Iphone 15 Pro,Nhom,130,400
+Laptop,Macbook Pro,Nhom,200,600
+Laptop,Mac M1,Nhom,200,620
+Tu lanh,Samsung TL10,Sat,200,700
+Tu lanh,Samsung TL20,Sat,240,720
+Tu lanh,Samsung TL30,Sat,280,780
+,,Sat,,10
+,,Dong,,20
+,,Nhom,,15
